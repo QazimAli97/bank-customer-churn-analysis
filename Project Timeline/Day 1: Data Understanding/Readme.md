@@ -54,28 +54,10 @@ The dataset contains information about **10,000 bank customers** with features s
 
 ---
 
-## 📈 Sample Code
-
-```python
-import pandas as pd
-
-# Load dataset
-df = pd.read_csv("Churn_Modelling.csv")
-
-# Basic understanding
-print(df.shape)
-print(df.columns)
-print(df.dtypes)
-
-# Missing values
-print(df.isnull().sum())
-
-# Target variable distribution
-print(df['Exited'].value_counts())
-
 #Learning Outcome
 Understanding the dataset structure and identifying data quality issues is the first step in any data analysis project.
-```
+
+ ---
 
 👤 Mohammad Ali  
 📊 Aspiring Data Analyst  
