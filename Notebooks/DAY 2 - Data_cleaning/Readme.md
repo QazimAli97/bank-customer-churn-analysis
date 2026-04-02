@@ -1,5 +1,3 @@
----
-
 ## 🚀 Day 2: Data Cleaning & Preparation
 
 ### ✔ Tasks Performed
