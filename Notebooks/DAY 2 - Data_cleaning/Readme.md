@@ -30,7 +30,7 @@ df.duplicated().sum()
 # Check categorical variables
 df['Geography'].value_counts()
 df['Gender'].value_counts()
-
+```
 Mohammad Ali  
 📊 Aspiring Data Analyst  
 
